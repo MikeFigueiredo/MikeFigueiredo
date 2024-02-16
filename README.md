@@ -1,7 +1,7 @@
 # Mike Figueiredo
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0078d7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-figueiredo/) &nbsp;
-[![Email](https://img.shields.io/badge/Email-0000CD?style=for-the-badge&logo=gmail&logoColor=white)](mikeefs@outlook.com) &nbsp;
+<!--[![Email](https://img.shields.io/badge/Email-0000CD?style=for-the-badge&logo=gmail&logoColor=white)](mikeefs@outlook.com) &nbsp;-->
 
 ## Sobre mim 🎯
 
