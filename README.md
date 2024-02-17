@@ -7,7 +7,7 @@
 
 💻 Trabalho com Qualidade de Software, atualmente ocupo a cadeira Pleno. \
 🎓 Graduado em Tecnologia da Informação e Pós-graduado em Testes de Software. \
-💻 Atualmente estou aprimorando o meu conhecimento em automação, utilizando Cypress. \
+💻 Atualmente estou aprimorando o meu conhecimento em automação, utilizando o Cypress, e o meu conhecimento em teste de performance, utilizando o K6. \
 📚 Aprendizado constante sobre testes de software. \
 🎤 Criador de Conteúdo Digital no LinkedIn, chega junto, vamos somar! \
 💬 Pergunte-me/Converse sobre qualquer coisa relacionada a qualidade e testes de software, estou sempre à disposição. \
