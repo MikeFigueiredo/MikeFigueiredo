@@ -36,6 +36,8 @@
 
 - [Publicação - Quatro vantagens de utilizar o Cypress](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-o-post-trar%C3%A1-quatro-activity-7158439381488263168-JMaF?utm_source=share&utm_medium=member_desktop)
 
+- [Publicação - Teste de software e QA, entenda a diferença](https://www.linkedin.com/feed/update/urn:li:activity:7164989484428652544/)
+
 - [Publicação - Importância dos testes de software dentro de um time de desenvolvimento](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-nesse-post-eu-gostaria-activity-7157026684578217984-m_1n?utm_source=share&utm_medium=member_desktop)
 
 - [Publicação - Teste de Performance](https://www.linkedin.com/feed/update/urn:li:activity:7162820926269595649/)
