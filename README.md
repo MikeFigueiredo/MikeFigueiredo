@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0078d7.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-figueiredo/) &nbsp;
 [![Youtube Badge](https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MiketechQA) &nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-8B008B.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.youtube.com/@MiketechQA) &nbsp;
 <!--[![Email](https://img.shields.io/badge/Email-0000CD?style=for-the-badge&logo=gmail&logoColor=white)](mikeefs@outlook.com) &nbsp;-->
 
 ## Sobre mim 🎯
