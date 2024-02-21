@@ -13,7 +13,7 @@
 📚 Aprendizado constante sobre testes de software. \
 🎤 Criador de Conteúdo Digital sobre Qualidade e Tecnologia! \
 💬 Pergunte-me/Converse sobre qualquer coisa relacionada a qualidade e testes de software, estou sempre à disposição. \
-🚀 Junte-se a mim nessa caminhada, me envie um convite no LinkedIn, me mande um e-mail, vamos nos conectar e evoluir juntos! 
+🚀 Junte-se a mim nessa caminhada, siga-me no Instagram, inscreva-se no meu canal no Youtube, me envie um convite no LinkedIn... Fique à vontade! Vamos nos conectar e evoluir juntos! 
 
 ## Hardskills 👩🏻‍💻
 
