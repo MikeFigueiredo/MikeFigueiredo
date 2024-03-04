@@ -34,6 +34,12 @@
 
 ## Últimos conteúdos 📕
 
+- [Publicação - Papéis no teste](https://www.linkedin.com/feed/update/urn:li:activity:7168255824505495552/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7168255824505495552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+- [Publicação - Teste de Transição de Estado](https://www.linkedin.com/feed/update/urn:li:activity:7167148680859398144/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7167148680859398144%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
+- [Publicação - Abordagem Shift-Left](https://www.linkedin.com/feed/update/urn:li:activity:7170430297107382272/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7170430297107382272%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+
 - [Publicação - Teste manual X Teste automatizado](https://www.linkedin.com/feed/update/urn:li:activity:7165708311856570369/)
 
 - [Publicação - Teste de software e QA, entenda a diferença](https://www.linkedin.com/feed/update/urn:li:activity:7164989484428652544/)
