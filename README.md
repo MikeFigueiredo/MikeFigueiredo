@@ -34,6 +34,8 @@
 
 ## Últimos conteúdos 📕
 
+- [Publicação - Habilidades relevantes para um QA](https://www.linkedin.com/feed/update/urn:li:activity:7172965179444465666/)
+
 - [Publicação - Papéis no teste](https://www.linkedin.com/feed/update/urn:li:activity:7168255824505495552/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7168255824505495552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
 - [Publicação - Teste de Transição de Estado](https://www.linkedin.com/feed/update/urn:li:activity:7167148680859398144/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7167148680859398144%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
