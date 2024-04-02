@@ -34,6 +34,8 @@
 
 ## Últimos conteúdos 📕
 
+- [Publicação - BDD, TDD E ATDD – Entenda a diferença](https://www.linkedin.com/feed/update/urn:li:activity:7180932931085881344/)
+
 - [Publicação - QA e IA - O futuro do Quality Assurance](https://www.linkedin.com/feed/update/urn:li:activity:7175861743892480000/)
 
 - [Publicação - Habilidades relevantes para um QA](https://www.linkedin.com/feed/update/urn:li:activity:7172965179444465666/)
