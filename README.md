@@ -34,6 +34,8 @@
 
 ## Últimos conteúdos 📕
 
+- [Publicação - Indicadores de Qualidade de Software](https://www.linkedin.com/feed/update/urn:li:activity:7188913459722338304/)
+
 - [Publicação - Teste de Performance](https://www.linkedin.com/feed/update/urn:li:activity:7183830229348466688/)
 
 - [Publicação - BDD, TDD E ATDD – Entenda a diferença](https://www.linkedin.com/feed/update/urn:li:activity:7180932931085881344/)
