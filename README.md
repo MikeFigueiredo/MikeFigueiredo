@@ -10,7 +10,7 @@
 💻 Software Quality Engineer. \
 🎓 Bachelor's degree in Information Technology and Postgraduate degree in Software Testing. \
 💻 I'm currently enhancing my knowledge in automation using Cypress, my knowledge in performance testing using K6, and artificial intelligence. \
-📚 Continuous learning about software testing. \
+📚 Continuous learning about software testing. 
 
 ## Hardskills 👩🏻‍💻
 
