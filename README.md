@@ -5,15 +5,12 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-8B008B.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codebymikef) &nbsp;
 <!--[![Email](https://img.shields.io/badge/Email-0000CD?style=for-the-badge&logo=gmail&logoColor=white)](mikeefs@outlook.com) &nbsp;-->
 
-## Sobre mim 🎯
+## About me 🎯
 
-💻 Trabalho com Qualidade de Software, atualmente ocupo a cadeira Pleno. \
-🎓 Graduado em Tecnologia da Informação e Pós-graduado em Testes de Software. \
-💻 Atualmente estou aprimorando o meu conhecimento em automação, utilizando o Cypress, o meu conhecimento em teste de performance, utilizando o K6 e inteligência artificial. \
-📚 Aprendizado constante sobre testes de software. \
-🎤 Criador de Conteúdo Digital sobre Qualidade e Tecnologia! \
-💬 Pergunte-me/Converse sobre qualquer coisa relacionada a qualidade e testes de software, estou sempre à disposição. \
-🚀 Junte-se a mim nessa caminhada, siga-me no Instagram, inscreva-se no meu canal no Youtube, me envie um convite no LinkedIn... Fique à vontade! Vamos nos conectar e evoluir juntos! 
+💻 Software Quality Engineer. \
+🎓 Bachelor's degree in Information Technology and Postgraduate degree in Software Testing. \
+💻 I am currently enhancing my knowledge in automation using Cypress, my knowledge in performance testing using K6, and artificial intelligence. \
+📚 Continuous learning about software testing. \
 
 ## Hardskills 👩🏻‍💻
 
@@ -32,35 +29,35 @@
 ![AUTODIDATA](https://img.shields.io/badge/-AUTODIDATA-purple?style=for-the-badge) &nbsp;
 ![COLABORATIVO](https://img.shields.io/badge/-COLABORATIVO-teal?style=for-the-badge) &nbsp;
 
-## Últimos conteúdos 📕
+## Latest publications 📕
 
-- [Publicação - Indicadores de Qualidade de Software](https://www.linkedin.com/feed/update/urn:li:activity:7188913459722338304/)
+- [Publication - Software Quality Indicators](https://www.linkedin.com/feed/update/urn:li:activity:7188913459722338304/)
 
-- [Publicação - Teste de Performance](https://www.linkedin.com/feed/update/urn:li:activity:7183830229348466688/)
+- [Publication - Performance Testing](https://www.linkedin.com/feed/update/urn:li:activity:7183830229348466688/)
 
-- [Publicação - BDD, TDD E ATDD – Entenda a diferença](https://www.linkedin.com/feed/update/urn:li:activity:7180932931085881344/)
+- [Publication - BDD, TDD E ATDD – Understand the difference](https://www.linkedin.com/feed/update/urn:li:activity:7180932931085881344/)
 
-- [Publicação - QA e IA - O futuro do Quality Assurance](https://www.linkedin.com/feed/update/urn:li:activity:7175861743892480000/)
+- [Publication - QA e IA - The future of Quality Assurance](https://www.linkedin.com/feed/update/urn:li:activity:7175861743892480000/)
 
-- [Publicação - Habilidades relevantes para um QA](https://www.linkedin.com/feed/update/urn:li:activity:7172965179444465666/)
+- [Publication - Relevant skills for a QA](https://www.linkedin.com/feed/update/urn:li:activity:7172965179444465666/)
 
-- [Publicação - Papéis no teste](https://www.linkedin.com/feed/update/urn:li:activity:7168255824505495552/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7168255824505495552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Publication - Testing Roles](https://www.linkedin.com/feed/update/urn:li:activity:7168255824505495552/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7168255824505495552%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
-- [Publicação - Teste de Transição de Estado](https://www.linkedin.com/feed/update/urn:li:activity:7167148680859398144/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7167148680859398144%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Publication - State Transition Testing](https://www.linkedin.com/feed/update/urn:li:activity:7167148680859398144/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7167148680859398144%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
-- [Publicação - Abordagem Shift-Left](https://www.linkedin.com/feed/update/urn:li:activity:7170430297107382272/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7170430297107382272%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
+- [Publication - Shift-Left Approach](https://www.linkedin.com/feed/update/urn:li:activity:7170430297107382272/?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A7170430297107382272%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29)
 
-- [Publicação - Teste manual X Teste automatizado](https://www.linkedin.com/feed/update/urn:li:activity:7165708311856570369/)
+- [Publication - Manual Testing X Automated Testing](https://www.linkedin.com/feed/update/urn:li:activity:7165708311856570369/)
 
-- [Publicação - Teste de software e QA, entenda a diferença](https://www.linkedin.com/feed/update/urn:li:activity:7164989484428652544/)
+- [Publication - Software test and QA, Understand the difference](https://www.linkedin.com/feed/update/urn:li:activity:7164989484428652544/)
 
-- [Publicação - Importância dos testes de software dentro de um time de desenvolvimento](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-nesse-post-eu-gostaria-activity-7157026684578217984-m_1n?utm_source=share&utm_medium=member_desktop)
+- [Publication - The Significance of Software Testing within a Development Team](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-nesse-post-eu-gostaria-activity-7157026684578217984-m_1n?utm_source=share&utm_medium=member_desktop)
 
-- [Publicação - Teste de Performance](https://www.linkedin.com/feed/update/urn:li:activity:7162820926269595649/)
+- [Publication - Performance Testing](https://www.linkedin.com/feed/update/urn:li:activity:7162820926269595649/)
 
-- [Publicação - Aguardar uma interceptação de API com Cypress](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-vamos-falar-sobre-activity-7157706600659484673-3U4e?utm_source=share&utm_medium=member_desktop) 
+- [Publication - Waiting for an API Interception with Cypress](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-vamos-falar-sobre-activity-7157706600659484673-3U4e?utm_source=share&utm_medium=member_desktop) 
 
-- [Publicação - Quatro vantagens de utilizar o Cypress](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-o-post-trar%C3%A1-quatro-activity-7158439381488263168-JMaF?utm_source=share&utm_medium=member_desktop)
+- [Publication - Four advantages of using Cypress](https://www.linkedin.com/posts/mike-figueiredo_ol%C3%A1-amigos-e-colegas-o-post-trar%C3%A1-quatro-activity-7158439381488263168-JMaF?utm_source=share&utm_medium=member_desktop)
 
 <!--
 <br>
