@@ -26,7 +26,7 @@
 ![ANALYTICAL](https://img.shields.io/badge/ANALYTICAL-1572B6?style=for-the-badge&logoColor=white) &nbsp;
 ![COMMUNICATIVE](https://img.shields.io/badge/COMMUNICATIVE-E34F26?style=for-the-badge&logoColor=white) &nbsp;
 ![RESILIENT](https://img.shields.io/badge/RESILIENT-%23239120.svg?style=for-the-badge&logoColor=white) &nbsp;
-![SELF-DIDACTED](https://img.shields.io/badge/-SELF-DIDACTED-purple?style=for-the-badge) &nbsp;
+![SELF-DIDACTED](https://img.shields.io/badge/-DIDACTED-purple?style=for-the-badge) &nbsp;
 ![COLLABORATIVE](https://img.shields.io/badge/-COLLABORATIVE-teal?style=for-the-badge) &nbsp;
 
 ## Latest publications 📕
